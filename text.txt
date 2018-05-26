@@ -1,8 +1,13 @@
 what do you mean????????..
 this is Master version!!
+<<<<<<< HEAD
 update test github
 
 update by team
 <<<<<<< HEAD
 what the .........
 error again
+=======
+ 
+ sorry man yoyo to day's sunday.
+>>>>>>> develop
